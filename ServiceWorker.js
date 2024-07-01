@@ -1,9 +1,9 @@
 const cacheName = "Knife Hit-Knife Hit-2.0";
 const contentToCache = [
-    "Build/V2.loader.js",
-    "Build/V2.framework.js",
-    "Build/V2.data",
-    "Build/V2.wasm",
+    "Build/V5.loader.js",
+    "Build/V5.framework.js",
+    "Build/V5.data",
+    "Build/V5.wasm",
     "TemplateData/style.css"
 
 ];

@@ -36,11 +36,11 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/V2.loader.js";
+  var loaderUrl = buildUrl + "/V5.loader.js";
   var config = {
-    dataUrl: buildUrl + "/V2.data",
-    frameworkUrl: buildUrl + "/V2.framework.js",
-    codeUrl: buildUrl + "/V2.wasm",
+    dataUrl: buildUrl + "/V5.data",
+    frameworkUrl: buildUrl + "/V5.framework.js",
+    codeUrl: buildUrl + "/V5.wasm",
     streamingAssetsUrl: "StreamingAssets",
     companyName: "Knife Hit",
     productName: "Knife Hit",
