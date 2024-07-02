@@ -36,15 +36,15 @@ window.addEventListener("load", function () {
   }
 
   var buildUrl = "Build";
-  var loaderUrl = buildUrl + "/V5.loader.js";
+  var loaderUrl = buildUrl + "/Mr_V2.loader.js";
   var config = {
-    dataUrl: buildUrl + "/V5.data",
-    frameworkUrl: buildUrl + "/V5.framework.js",
-    codeUrl: buildUrl + "/V5.wasm",
+    dataUrl: buildUrl + "/Mr_V2.data.gz",
+    frameworkUrl: buildUrl + "/Mr_V2.framework.js.gz",
+    codeUrl: buildUrl + "/Mr_V2.wasm.gz",
     streamingAssetsUrl: "StreamingAssets",
-    companyName: "Knife Hit",
-    productName: "Knife Hit",
-    productVersion: "2.0",
+    companyName: "DefaultCompany",
+    productName: "Dapp",
+    productVersion: "0.1",
     showBanner: unityShowBanner,
   };
 
