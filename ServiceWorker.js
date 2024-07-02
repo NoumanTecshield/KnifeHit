@@ -1,9 +1,9 @@
-const cacheName = "Knife Hit-Knife Hit-2.0";
+const cacheName = "DefaultCompany-Dapp-0.1";
 const contentToCache = [
-    "Build/V5.loader.js",
-    "Build/V5.framework.js",
-    "Build/V5.data",
-    "Build/V5.wasm",
+    "Build/Mr_V2.loader.js",
+    "Build/Mr_V2.framework.js.gz",
+    "Build/Mr_V2.data.gz",
+    "Build/Mr_V2.wasm.gz",
     "TemplateData/style.css"
 
 ];

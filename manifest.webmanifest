@@ -1,9 +1,9 @@
 {
-    "name": "Knife Hit",
-    "short_name": "Knife Hit",
+    "name": "Dapp",
+    "short_name": "Dapp",
     "start_url": "index.html",
     "display": "fullscreen",
-    "background_color": "#04454C",
+    "background_color": "#231F20",
     "theme_color": "#000",
     "description": "",
     "icons": [{
